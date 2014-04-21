@@ -1,9 +1,9 @@
-Title: How to set Favicon and Speed Dial icon of your blog
-Tags: favicon, pelican-theme
+Title: How to set Favicon and Speed Dial icon
+Tags: pelican-theme
 Category: Elegant - Pelican Theme
 Date: 2013-11-08 22:42
-Slug: how-to-set-favicons-and-speed-dial-icon-of-your-blog
-Disqus_identifier: p34md6k-how-to-set-favicons-and-speed-dial-icons-of-your-blog
+Slug: how-to-set-favicon-and-speed-dial-icon
+Disqus_identifier: p34md6k-how-to-set-favicon-and-speed-dial-icon
 Subtitle: 
 Summary: Elegant Pelican theme supports favicon and speed dial icon for Pelican
     blogs. This article describes how to set up this feature.

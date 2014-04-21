@@ -27,7 +27,7 @@ These are the settings that will help you get the most out of Elegant
 
 These are the optional configuration variables that you can define
 
-1. `USE_FAVICON` used for [Favicon](how-to-set-favicons-and-speed-dial-icon-of-your-blog)
+1. `USE_FAVICON` used for [favicon and speed dial icon](how-to-set-favicon-and-speed-dial-icon)
 1. `SITE_LICENSE`
 1. `SITESUBTITLE`
 1. `SITE_DESCRIPTION`
